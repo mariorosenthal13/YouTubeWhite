@@ -1,0 +1,142 @@
+*{
+  font-family: sans-serif;
+  color: lightgrey;
+}
+.topnavdiv {
+
+  width: auto;
+  height: 3em;
+  flex: 1;
+}
+.topnavinput {
+  max-width: 50.2em;
+  width: 30em;
+  margin-top: 0em;
+  width: 42.4%;
+  height: 1.7em;
+  flex: 0.8;
+  border: none;
+  outline: none;
+  font-size: 18px;
+  padding-left: 23px;
+
+}
+.uploadiconwhite {
+  width: 6.4em;
+  height: 2.5em;
+  float: right;
+  margin-right: -5px;
+  margin-top: -26px;
+  flex: 1;
+  overflow-x: scroll;
+  padding-left: 15px;
+}
+.youtubeicon  {
+  width: 6.5em;
+  height: 4.4em;
+  float: left;
+  flex: 1;
+  margin-top: -19px;
+}
+.navstyle {
+  list-style: none;
+  height: 3em;
+}
+.userprofileicon  {
+  width: 2em;
+  height: 2em;
+  float:right;
+  flex: 1;
+  overflow-x: hidden;
+  margin-top: -34px;
+}
+#videowindow {
+  width: 75%;
+  height: 100%ss;
+  align-items: flex-end;
+  float: right;
+  padding-right: 3%;
+  padding-left: 3%;
+  margin-right: 66px;
+
+}
+.leftnav {
+  align-items: flex-start;
+  float: left;
+  margin-left: -89px;
+  width: 8%;
+  justify-content: flex-start;
+}
+#usericonwhite {
+  margin-left: 0px;
+}
+#listiconwhite {
+
+  margin-left: 0px;
+
+}
+#worldiconwhite {
+  margin-left: 1px;
+  margin-top: 2px;
+}
+
+#iconguide {
+  margin-left: 7px;
+}
+#timeiconwhite{
+
+}
+
+.videoinfo {
+  width: 85%;
+  float: right;
+  clear: both;
+  border-bottom: 1px solid lightgrey;
+  padding-bottom: 18px;
+  position: relative;
+
+}
+
+.contentcontainer {
+  box-sizing: border-box;
+  width:100%;
+  background-color: grey;
+}
+.icon {
+  width: 25px;
+  height: 25px;
+  margin-right: 15px;
+  margin-bottom: -5px;
+}
+.icondiv {
+  width:135px;
+  height:30px;
+}
+#uploadericon {
+  width: 21px;
+  height:18px;
+}
+#viewcounter {
+  float:left;
+}
+#videoname {
+
+}
+
+.subscribebutton {
+  background-color: red;
+  border: none;
+  border-radius: 2px;
+  color: white;
+}
+
+.aboutbutton {
+  position: absolute;
+  z-index: 3;
+  left: 39%;
+  bottom: -8%;
+}
+
+.like-container {
+  float:right;
+}
